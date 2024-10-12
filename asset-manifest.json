@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ract/static/css/main.f855e6bc.css",
+    "main.js": "/ract/static/js/main.dfb44727.js",
+    "index.html": "/ract/index.html",
+    "main.f855e6bc.css.map": "/ract/static/css/main.f855e6bc.css.map",
+    "main.dfb44727.js.map": "/ract/static/js/main.dfb44727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dfb44727.js"
+  ]
+}
