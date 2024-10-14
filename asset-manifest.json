@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ract/static/css/main.79d19d76.css",
-    "main.js": "/ract/static/js/main.5aa5238c.js",
+    "main.css": "/ract/static/css/main.f855e6bc.css",
+    "main.js": "/ract/static/js/main.1dd17619.js",
     "static/js/453.5875d36b.chunk.js": "/ract/static/js/453.5875d36b.chunk.js",
+    "static/media/logo.svg": "/ract/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ract/index.html",
-    "main.79d19d76.css.map": "/ract/static/css/main.79d19d76.css.map",
-    "main.5aa5238c.js.map": "/ract/static/js/main.5aa5238c.js.map",
+    "main.f855e6bc.css.map": "/ract/static/css/main.f855e6bc.css.map",
+    "main.1dd17619.js.map": "/ract/static/js/main.1dd17619.js.map",
     "453.5875d36b.chunk.js.map": "/ract/static/js/453.5875d36b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d19d76.css",
-    "static/js/main.5aa5238c.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1dd17619.js"
   ]
 }
